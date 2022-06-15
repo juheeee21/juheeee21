@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juheeee21
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning c++ and html
+-
 - 
 
 <!---
