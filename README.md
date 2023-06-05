@@ -3,7 +3,7 @@
 - <h1 align="center">Hi 👋, I'm Juhi Kumari</h1>
 <h3 align="center">Fascinated by tech; Interested in web development and designing</h3>
 
-- 🌱 I’m currently learning **web devlopment, web designing, 2D animation**
+- 🌱 I’m currently learning **web devlopment, web designing**
 
 - 📫 How to reach me **juhi123k4@gmail.com**
 
