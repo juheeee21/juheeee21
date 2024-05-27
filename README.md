@@ -1,9 +1,9 @@
 - 
 -
 - <h1 align="center">Hi 👋, I'm Juhi Kumari</h1>
-<h3 align="center">Fascinated by tech; Interested in web development and designing</h3>
+<h3 align="center">Fascinated by tech; Interested in Web development, Data Analysis, Data Science and Software development</h3>
 
-- 🌱 I’m currently learning **web devlopment, web designing**
+- 🌱 Excelled with C++, Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **juhi123k4@gmail.com**
 
