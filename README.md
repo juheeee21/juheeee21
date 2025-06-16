@@ -3,7 +3,7 @@
 - <h1 align="center">Hi 👋, I'm Juhi Kumari</h1>
 <h3 align="center">Fascinated by tech; Interested in Web development, Data Analysis, Data Science and Software development</h3>
 
-- 🌱 Excelled with C++, Python, HTML, CSS, JavaScript**
+- 🌱 Excelled with C++, Python, HTML, CSS, JavaScript, SQL, React, Node**
 
 - 📫 How to reach me **juhi123k4@gmail.com**
 
